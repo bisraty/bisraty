@@ -7,7 +7,6 @@
       <a href="https://www.linkedin.com/in/bisrat-yenehun-479454214/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-    
       <a href="mailto:bisrat2007manu@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logoColor=white" alt="Email Badge"/>
       </a>
