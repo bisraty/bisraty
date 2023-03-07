@@ -1,7 +1,6 @@
 <h1>About Me! 😎</h1>
 
 - 🔭 I'm currently working on Flutter and React js  projects
-- 🌱 I'm currently learning Python and AWS Cloud Practitioner
 - 🤔: I'm looking for remote jobs as a Frontend developer for both android and web!
 - 📫 You can reach out to me via
     <div id="badges">
@@ -17,10 +16,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React-Redux" alt="React-Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -38,5 +35,5 @@
    
 ## GitHub Stats! 📊
   
-| <a href="https://github.com/abenezer-ayalneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abenezer-ayalneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/abenezer-ayalneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abenezer-ayalneh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/bisraty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bisraty&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/bisraty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisraty&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
