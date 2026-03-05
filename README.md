@@ -1,31 +1,48 @@
+# Hi there, I'm Bisrat! 👋
 
-<h1>About Me! 😎</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=70" />
+</p>
 
-- 🔭 I'm currently working on Flutter and React js  projects
-- 🤔: I'm looking for remote jobs as a Frontend developer for both Android and website!
-- 📫 You can reach out to me via
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/bisrat-yenehun-479454214/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="mailto:bisrat2007manu@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logoColor=white" alt="Email Badge"/>
-      </a>
-    </div>
+### 🚀 About Me
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+I am a passionate **Frontend Developer** dedicated to building seamless user experiences for both web and mobile platforms. I bridge the gap between design and functionality.
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React-Redux" alt="React-Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- </div>
+- 🔭 **Currently:** Crafting modern web interfaces and mobile solutions.
+- 🎯 **Goal:** Seeking a remote role to build impactful products for Android and Web.
+- ⚡ **Fun Fact:** I believe clean code is just as important as a clean UI.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+| **Backend/DB** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+
+---
+
+### 📊 Github Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bisrat-Y&show_icons=true&theme=radical" alt="Bisrat's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bisrat-Y&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bisrat-yenehun-479454214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bisrat2007manu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/resources/ascii.txt" width="100%" />
