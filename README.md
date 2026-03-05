@@ -41,7 +41,7 @@ I am a passionate **Frontend Developer** dedicated to building seamless user exp
 ### 📊 Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bisratY&show_icons=true&theme=radical" alt="Bisrat's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisratY&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
