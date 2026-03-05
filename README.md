@@ -1,7 +1,7 @@
 # Hi there, I'm Bisrat! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;Web+%26+Mobile+Specialist;Next+React+%26+Flutter+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;Web+%26+Mobile+Specialist;React+%26+Flutter+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
