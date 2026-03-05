@@ -1,7 +1,7 @@
 # Hi there, I'm Bisrat! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+%26+Mobile+Specialist;React+%26+Flutter+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;Web+%26+Mobile+Specialist;Next+React+%26+Flutter+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,7 +42,6 @@ I am a passionate **Frontend Developer** dedicated to building seamless user exp
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bisratY&show_icons=true&theme=radical" alt="Bisrat's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bisratY&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
