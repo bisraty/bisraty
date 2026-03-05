@@ -4,10 +4,22 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=70" />
 </p>
 
+<p align="center">
+  <a href="https://bisrat-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/bisrat-yenehun-479454214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
 ### 🚀 About Me
 
 I am a passionate **Frontend Developer** dedicated to building seamless user experiences for both web and mobile platforms. I bridge the gap between design and functionality.
 
+- 🌐 **Portfolio:** [bisrat-portfolio.vercel.app](https://bisrat-portfolio.vercel.app/)
 - 🔭 **Currently:** Crafting modern web interfaces and mobile solutions.
 - 🎯 **Goal:** Seeking a remote role to build impactful products for Android and Web.
 - ⚡ **Fun Fact:** I believe clean code is just as important as a clean UI.
@@ -28,21 +40,17 @@ I am a passionate **Frontend Developer** dedicated to building seamless user exp
 ### 📊 Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bisrat-Y&show_icons=true&theme=radical" alt="Bisrat's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bisrat-Y&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=bisratY&show_icons=true&theme=radical" alt="Bisrat's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bisratY&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bisrat-yenehun-479454214/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bisrat2007manu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+- 📧 Email: [bisrat2007manu@gmail.com](mailto:bisrat2007manu@gmail.com)
+- 💼 LinkedIn: [Bisrat Yenehun](https://www.linkedin.com/in/bisrat-yenehun-479454214/)
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Bisrat-Y&label=Profile%20views&color=0e75b6&style=flat" alt="bisratY" />
 </p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/resources/ascii.txt" width="100%" />
