@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Bisrat! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;Web+%26+Mobile+Specialist;React+%7C+Next.js+%7C+Flutter;Turning+Ideas+Into+Interfaces+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;Web+%26+Mobile+Specialist;React+%7C+Next.js+%7C+Flutter;Turning+Ideas+Into+Interfaces+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -88,8 +88,8 @@ const bisrat = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bisraty&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisraty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bisraty&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bisraty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
